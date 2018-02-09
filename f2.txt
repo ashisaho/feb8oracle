@@ -1,2 +1,4 @@
 this is from repository
 new entry
+diff
+stash test
